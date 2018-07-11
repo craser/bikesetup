@@ -8,4 +8,4 @@
 ## Tires
 
 * Maxxis Rekon 3C/TR
-* Pressure: 20f/24r
+* Pressure: 19f/22r
