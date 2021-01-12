@@ -9,7 +9,7 @@
 ## Tires
 
 * Maxxis Rekon 3C/TR
-* Pressure: 18f/20r
+* Pressure: 21f/24r
 
 
 # Post-Workout Routine
