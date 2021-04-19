@@ -3,8 +3,9 @@
 ## Fork 
 
 * 2017 Fox Float 32 Factory
-* Pressure: 90 PSI
+* Pressure: 96 PSI
 * Damping: 4 clicks from wide open
+* Spacers: 4
 
 ## Tires
 
