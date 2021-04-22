@@ -17,5 +17,5 @@
 | saddle | angle | fore/aft | notes |
 |-|-|-|-|
 | fabric scoop radius | 0° | rail marks | gnarly sores left/right of center |
-| fabric scoop medium | +5▲ | rail marks | more stable, sore spots feel better, no new irritation. I'd like more scoop at the back-- feel like I'm gonna slide off. |
-
+| fabric scoop shallow | +5▲ | rail marks | more stable, sore spots feel better, no new irritation. I'd like more scoop at the back-- feel like I'm gonna slide off. |
+| fabric scoop radius | +5▲ | rail marks | TBD | 
